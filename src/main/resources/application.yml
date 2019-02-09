@@ -9,5 +9,5 @@ dubbo:
     address: zookeeper://127.0.0.1:2181
   application:
     name: dubbo-provider-demo1
-  scan:
-    base-packages: com.example.dubbo.services.impl
+#  scan:
+#    base-packages: com.example.dubbo.services.impl
